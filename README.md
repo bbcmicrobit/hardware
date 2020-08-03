@@ -35,7 +35,7 @@ different terms.
 
 ### Differences from manufactured BBC micro:bits
 
-This version differs slightly from that used in manufacturing the original
+These versions differ slightly from that used in manufacturing the original
 micro:bit, in that trademarks (which are licensed separately) have been
 removed.
 
