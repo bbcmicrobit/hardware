@@ -1,8 +1,21 @@
 # BBC micro:bit
+
 ## Open hardware designs
 
 This repository contains the schematics and bill of materials for the BBC
 micro:bit.
+
+## Technical documentation for the BBC micro:bit
+
+The main technical documentation for the BBC micro:bit lives at the [micro:bit Tech Site](https://tech.microbit.org/).
+On that site, you will find details about the way the micro:bit works, a
+reference-design based on the micro:bit, as well as a detailed walk-through of
+the schematic contained in this repository.
+
+* [Overview of the hardware](https://tech.microbit.org/hardware/).
+* [Walk-through of the schematic](https://tech.microbit.org/hardware/schematic/).
+* [A reference-design based on the micro:bit](https://tech.microbit.org/hardware/reference-design/)
+which includes layout and gerbers and is based on a module for easy fabrication.
 
 ### Licensing
 
@@ -28,10 +41,20 @@ This means that:
 Note that this only a brief summary: for the full licensing conditions, you
 must read the [licence](http://creativecommons.org/licenses/by/4.0/). In the
 event that this document and the licence disagree, the licence takes
-precedence (please [file a bug report](https://github.com/bbcmicrobit/hardware/issues) if this is the case!)
+precedence (please [file a bug report](https://github.com/bbcmicrobit/hardware/issues)
+if this is the case!)
 
 Trademarks (including the micro:bit logo) are licensed separately under
 different terms.
+
+### Versions
+
+There are two versions of the BBC micro:bit board that have been produced, V1.3
+and V1.5. V1.5 was created to address the end-of-life of the micro:bit's motion
+sensors.
+
+There are more details about the V1.5 revision on the
+[micro:bit Knowledge Base motion sensor revision article](https://support.microbit.org/support/solutions/articles/19000087020-micro-bit-motion-sensor-hardware-change).
 
 ### Differences from manufactured BBC micro:bits
 
