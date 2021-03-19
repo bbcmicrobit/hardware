@@ -49,12 +49,14 @@ different terms.
 
 ### Versions
 
-There are two versions of the BBC micro:bit board that have been produced, V1.3
-and V1.5. V1.5 was created to address the end-of-life of the micro:bit's motion
+There are three versions of the BBC micro:bit board that have been produced, V1.3
+and V1.5 and V2. V1.5 was created to address the end-of-life of the micro:bit's motion
 sensors.
 
 There are more details about the V1.5 revision on the
 [micro:bit Knowledge Base motion sensor revision article](https://support.microbit.org/support/solutions/articles/19000087020-micro-bit-motion-sensor-hardware-change).
+
+The micro:bit V2 open source hardware which contains the schematics and bill of material can be found [here](https://github.com/microbit-foundation/microbit-v2-hardware)
 
 ### Differences from manufactured BBC micro:bits
 
